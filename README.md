@@ -1,6 +1,8 @@
 # modified-cobblemon
 Modified Cobblemon!
 
+Curseforge page: https://www.curseforge.com/minecraft/modpacks/modified-cobblemon/
+
 ### Full mods list: 
 [YUNG's Better Jungle Temples (Forge) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
 [Multi Mine (by atomicstrykergrumpy)](https://www.curseforge.com/minecraft/mc-mods/multi-mine)
