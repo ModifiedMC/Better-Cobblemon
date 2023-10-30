@@ -1,7 +1,13 @@
 # modified-cobblemon
-Modified Cobblemon!
+
+Now of Minecraft version 1.20 - Cobblemon 1.4 with all your favorite Vanilla+ mods!
 
 Curseforge page: https://www.curseforge.com/minecraft/modpacks/modified-cobblemon/
+
+Community Support / Modified MC Discord: https://discord.gg/h36rjuC52X
+
+Looking to setup a Server? https://www.bisecthosting.com/modified
+
 
 ### Full mods list: 
 [YUNG's Better Jungle Temples (Forge) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
