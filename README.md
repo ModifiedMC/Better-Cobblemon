@@ -1,4 +1,4 @@
-# modified-cobblemon
+# modified-cobblemon-plus
 
 Now on Minecraft version 1.21.1 - Cobblemon 1.6 with all your favorite mods!
 
